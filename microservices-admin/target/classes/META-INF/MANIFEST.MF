@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: Duaz Admin MicroServices
+Implementation-Version: 1.0.0
+Built-By: aziah
+Implementation-Vendor-Id: com.duaz.microservices.admin
+Build-Jdk: 1.8.0_251
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
